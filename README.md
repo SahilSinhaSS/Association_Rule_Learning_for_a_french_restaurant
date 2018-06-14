@@ -1,2 +1,2 @@
-# Food_Recommendor_system_for_a_french_restaurant
+# Market_Basket_Optimization
 Using Apriori Alogorithm
