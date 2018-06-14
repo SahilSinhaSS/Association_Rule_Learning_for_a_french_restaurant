@@ -1,1 +1,2 @@
-# Association_Rule_Learning_for_a_french_restaurant
+# Food_Recommendor_system_for_a_french_restaurant
+Using Apriori Alogorithm
